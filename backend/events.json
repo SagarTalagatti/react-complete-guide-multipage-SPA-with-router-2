@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Testing...!!!","image":"https://gighub-563e.kxcdn.com/mediafiles/cache/0c/ed/0cedb35b62688c9134ab277639e07b20.webp","date":"2020-10-10","description":"A test event...","id":"b7e4ca72-1ee9-4845-8b7e-548a1bb1fa2a"},{"title":"Yet another event","image":"https://shagunresortigatpuri.com/wp-content/uploads/2021/03/corporate-events-500x500-1.jpg","date":"2021-10-10","description":"An interesting event with awesome games.","id":"60061341-7b22-44f9-81d9-3a20ec7743b7"},{"title":"Another event","image":"https://www.muenchenevent.de/sites/default/files/media/images/default--og-image--me.jpg","date":"2022-12-12","description":"A superb and exciting awesome event","id":"afc33182-5961-4f92-83de-1a1719e35a31"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
